@@ -2,6 +2,7 @@
   <div className="app">
     <Header/>
     <Home/>
+    <router-view></router-view>
     <Footer/>
   </div>
 </template>
